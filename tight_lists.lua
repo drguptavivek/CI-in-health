@@ -4,7 +4,6 @@ function BulletList (bl)
   bl.tight = true
   return bl
 end
-
 function OrderedList (ol)
   -- Make all ordered lists tight
   ol.tight = true

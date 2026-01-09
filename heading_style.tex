@@ -1,16 +1,13 @@
 % Add vertical space before H2 and H3 headings
 % Using basic LaTeX - no external packages needed
-
 % Define lengths for spacing
 \newlength{\h2spacing}
 \newlength{\h3spacing}
 \setlength{\h2spacing}{12pt}
 \setlength{\h3spacing}{10pt}
-
 % Modify subsection spacing (H2)
 \let\oldsubsection\subsection
 \renewcommand\subsection{\vspace{\h2spacing}\oldsubsection}
-
 % Modify subsubsection spacing (H3)
 \let\oldsubsubsection\subsubsection
 \renewcommand\subsubsection{\vspace{\h3spacing}\oldsubsubsection}
