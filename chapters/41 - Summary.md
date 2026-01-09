@@ -26,7 +26,9 @@ This study provides deep-dive analysis of **17 jurisdictions** with detailed cha
 | **Israel** | Database security levels | Criteria public | **Yes (3-tier: Basic/Medium/High)** | **Privacy Law Amendment 13 effective (14 Aug 2025)** |
 
 # Universal Health Information Systems Prioritized Globally
+
 **Across all 17 deep-dive jurisdictions, consistent prioritization emerges for:**
+
 1. **Emergency call-taking and ambulance dispatch** (111/112/119/911/999 + Computer Aided Dispatch)  
 2. **Major hospital core clinical systems** (EMR/EHR, EDIS, ICU monitoring)  
 3. **Intensive care unit systems** (explicitly: Australia, UK, Germany; implicitly: all others)  
@@ -34,6 +36,7 @@ This study provides deep-dive analysis of **17 jurisdictions** with detailed cha
 5. **National/regional infectious disease surveillance**  
 6. **National health information infrastructure** (where exists: electronic prescription, national EHR)
 **High but variable priority:**
+
 7. Ambulance electronic patient care records (ePCR/ePRF)  
 8. Operating theatre management and anesthesia systems  
 9. Hospital laboratory information systems (LIMS)  
@@ -43,6 +46,7 @@ This study provides deep-dive analysis of **17 jurisdictions** with detailed cha
 13. Organ and tissue transplant allocation systems
 
 **Lower priority (but still important):**
+
 * Community hospital systems (if alternatives exist)  
 * Primary care / GP systems (unless sole provider)  
 * Outpatient specialty clinics  
@@ -68,11 +72,13 @@ This study provides deep-dive analysis of **17 jurisdictions** with detailed cha
 | **17 July 2026** | EU | CER Directive deadline for identifying critical entities |
 
 ### 1. Supply Chain Regulation Expansion
+
 * **UK**: New Bill explicitly targets **Managed Service Providers (MSPs)** and **critical suppliers**  
 * **EU**: NIS2 includes manufacturers of medical devices and pharmaceuticals  
 * **Implication**: Future frameworks must include criteria for assessing and mandating security standards for third and fourth-party vendors
 
 ### 2. All-Hazard Resilience Integration
+
 * **EU CER Directive**: Mandates resilience plans for physical, environmental, natural disaster, and supply chain disruptions  
 * **Shift**: Moving beyond pure cybersecurity to require planning for broader disruptions that could impact digital services  
 * **Implication**: Critical infrastructure frameworks should integrate business continuity planning for multi-hazard scenarios
@@ -87,6 +93,7 @@ Global convergence towards standardized reporting timelines:
 | **Ransom payment** | 24 hours | USA CIRCIA, Australia |
 
 ### 4. Enhanced Enforcement Postures
+
 * **Australia**: Shift to "stricter enforcement-oriented posture" from January 2026  
 * **EU**: Significant penalties (up to €10M or 2% global turnover)  
 * **Hong Kong**: Fines up to HK$5M for non-compliance with CI operator obligations
@@ -245,11 +252,13 @@ START: Is health explicitly listed as a CI sector in existing national law?
 - [ ] Map existing health sector regulatory bodies and their powers
 
 ### 1.2 Sector Risk Assessment
+
 - [ ] Inventory major health information systems in the country
 - [ ] Identify single points of failure (sole providers, national systems)
 - [ ] Assess current incident reporting and cyber hygiene baseline
 
 ### 1.3 Stakeholder Mapping
+
 - [ ] Identify designated authority (cybersecurity agency, health ministry, or hybrid)
 - [ ] Map hospitals, labs, insurers, technology vendors in health sector
 - [ ] Establish working group with sector representatives
@@ -258,16 +267,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 ## Phase 2: Design & Consultation (Months 7-12)
 
 ### 2.1 Develop Designation Criteria
+
 - [ ] Define quantitative thresholds (e.g., bed count, case volume, employee count)
 - [ ] Add qualitative safety-net criteria (sole provider, unique capability)
 - [ ] Draft "regardless of size" exception triggers
 
 ### 2.2 Draft Obligations Framework
+
 - [ ] Tier 1 (Essential): Risk management plan, security officer, 24h reporting, annual audit
 - [ ] Tier 2 (Important): Risk management, 72h reporting, biennial assessment
 - [ ] Tier 3 (Baseline): Basic cyber hygiene, voluntary reporting
 
 ### 2.3 Stakeholder Consultation
+
 - [ ] Publish draft framework for public comment
 - [ ] Conduct workshops with hospital associations, health IT vendors
 - [ ] Align with telecom, energy, finance CI frameworks on cross-sector issues
@@ -276,16 +288,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 ## Phase 3: Pilot Implementation (Months 13-18)
 
 ### 3.1 Pilot Designation
+
 - [ ] Designate 5-10 largest/most critical entities for pilot
 - [ ] Test designation process and notification procedures
 - [ ] Refine criteria based on pilot feedback
 
 ### 3.2 Develop Operational Guidance
+
 - [ ] Create sector-specific security controls guidance (reference: Germany B3S, UK CAF)
 - [ ] Develop incident reporting forms and submission system
 - [ ] Establish information-sharing mechanisms (CERT, sectoral ISAC)
 
 ### 3.3 Capacity Building
+
 - [ ] Train designated entities on compliance requirements
 - [ ] Train regulatory staff on supervision and enforcement
 - [ ] Establish help desk for compliance questions
@@ -294,16 +309,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 ## Phase 4: Full Implementation (Months 19-24)
 
 ### 4.1 Full Rollout
+
 - [ ] Designate all in-scope entities based on final criteria
 - [ ] Activate mandatory incident reporting
 - [ ] Begin compliance monitoring
 
 ### 4.2 Enforcement Framework
+
 - [ ] Establish graduated enforcement (warning → compliance order → fine)
 - [ ] Publish anonymized enforcement statistics for sector learning
 - [ ] Create appeals/review mechanism
 
 ### 4.3 Cross-Sector Integration
+
 - [ ] Map interdependencies with power, telecom, water CI
 - [ ] Establish joint incident response protocols
 - [ ] Participate in national/regional CI coordination mechanisms
@@ -312,16 +330,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 ## Phase 5: Maturity & Evolution (Ongoing)
 
 ### 5.1 Continuous Improvement
+
 - [ ] Conduct annual review of designation criteria effectiveness
 - [ ] Update thresholds based on sector evolution (e.g., telehealth growth)
 - [ ] Incorporate lessons from incident response
 
 ### 5.2 International Alignment
+
 - [ ] Monitor and align with regional frameworks (EU NIS2, ASEAN, etc.)
 - [ ] Participate in international information-sharing networks
 - [ ] Consider mutual recognition agreements for cross-border operators
 
 ### 5.3 Emerging Technology Integration
+
 - [ ] Add AI/ML diagnostic systems to scope consideration
 - [ ] Address IoT medical device security
 - [ ] Update for cloud and SaaS health platforms
@@ -330,6 +351,7 @@ START: Is health explicitly listed as a CI sector in existing national law?
 ## Conclusion
 This comprehensive analysis of **17 jurisdictions** with detailed chapter coverage, plus an additional **20+ countries** surveyed across Latin America, ASEAN, Africa, Middle East, and Central Asia, reveals a global landscape undergoing significant transformation in 2025-2026.
 **Five key trends dominate:**
+
 1. **Expanded Scope**: Regulations now explicitly encompass supply chains, with MSPs and critical suppliers facing direct obligations (UK, EU).  
 2. **Holistic Resilience**: The shift from pure cybersecurity to all-hazard resilience planning (EU CER Directive) reflects recognition that health systems face multifaceted threats.  
 3. **Stricter Reporting**: Convergence towards 12-24 hour early warning and 48-72 hour detailed notification, with specific ransomware payment reporting (24 hours in USA, Australia).  
@@ -342,37 +364,66 @@ For jurisdictions developing or updating their health critical infrastructure fr
 
 ## References (Global Synthesis)
 1. **Cyber Security Agency of Singapore (CSA).** **Cybersecurity Act**. ([CSA][1])
+
 2. **Cyber Security Agency of Singapore (CSA).** **Code of Practice for Critical Information Infrastructure Protection (Second Edition)**. ([CSA][2])
+
 3. **Cyber Security Agency of Singapore (CSA).** **Healthcare Cybersecurity Masterplan 2021-2023**.
+
 4. **Australian Government.** **Security of Critical Infrastructure Act 2018**. ([Legislation.gov.au][4])
+
 5. **Australian Government, Department of Home Affairs.** **Security of Critical Infrastructure (Definitions) Rules 2021**.
+
 6. **Australian Government, Department of Home Affairs.** **Security of Critical Infrastructure (Risk Management Program) Rules 2023**.
 7. **Critical Infrastructure Centre.** **SOCI Act 2018 for healthcare and medical**. ([CISC][7])
+
 8. **UK Parliament.** **The Network and Information Systems Regulations 2018 (SI 2018/506)**. ([Legislation.gov.uk][8])
+
 9. **UK Department of Health and Social Care.** **The Network and Information Systems Regulations 2018: guide for the health sector in England**. ([GOV.UK][9])
+
 10. **UK National Cyber Security Centre.** **Cyber Assessment Framework (CAF)**. ([NCSC][10])
+
 11. **European Parliament and Council.** **Directive (EU) 2022/2555 (NIS2 Directive)**.
+
 12. **European Commission.** **FAQs on NIS2 Directive**. ([European Commission][12])
+
 13. **European Commission.** **Infringement proceedings for non-transposition of NIS2**. ([European Commission][13])
 14. **The White House.** **Presidential Policy Directive 21 (PPD-21): Critical Infrastructure Security and Resilience**.
+
 15. **Cybersecurity and Infrastructure Security Agency (CISA).** **National Critical Functions**. ([CISA][15])
+
 16. **U.S. Department of Health and Human Services.** **Health Industry Cybersecurity Practices (HICP)**. ([405d.hhs.gov][16])
+
 17. **U.S. Department of Health and Human Services.** **HIPAA Security Rule**. ([HHS.gov][17])
+
 18. **National Conference of State Legislatures.** **State Critical Infrastructure Laws**. ([NCSL][18])
+
 19. **U.S. Government Accountability Office.** **Federal Health Cybersecurity**. ([GAO][19])
+
 20. **Public Safety Canada.** **National Strategy for Critical Infrastructure**. ([Public Safety Canada][20])
 21. **Ontario Ministry of Health.** **Emergency Management Framework for Health**. ([Ontario.ca][21])
+
 22. **Canadian Centre for Cyber Security.** **Cyber Incident Management for Canada's Health Sector**. ([Cyber.gc.ca][22])
+
 23. **New Zealand Government.** **Computer Emergency Response Team Act 2016**.
+
 24. **Te Whatu Ora - Health New Zealand.** **Cybersecurity and Critical Infrastructure Framework (Draft)**.
+
 25. **Bundesamt für Sicherheit in der Informationstechnik (BSI).** **BSI-KritisV and IT-Sicherheitsgesetz 2.0**. ([BSI][25])
+
 26. **Bundesministerium des Innern und für Heimat.** **NIS2-Umsetzungsgesetz (NIS2UmsuCG)**. ([BMI][26])
+
 27. **National center of Incident readiness and Strategy for Cybersecurity (NISC), Japan.** **Cybersecurity Basic Act and Policy Guidelines**. ([NISC][27])
 28. **Ministry of Health, Labour and Welfare (MHLW), Japan.** **Healthcare Information System Security Guidelines**. ([MHLW][28])
+
 29. **Personal Information Protection Commission, Japan.** **Health Data Breach Reporting**. ([PPC][29])
+
 30. **National People's Congress, China.** **Cybersecurity Law of the People's Republic of China**.
+
 31. **State Council, China.** **Critical Information Infrastructure Security Protection Regulations**.
+
 32. **Ministry of Public Security, China.** **Multi-Level Protection Scheme 2.0 Standards**.
+
 33. **National Health Commission, China.** **Health Critical Information Infrastructure Protection Guidelines**.
+
 34. **Cyberspace Administration of China.** **CII Security Incident Reporting Requirements**. ([CAC][34])
 

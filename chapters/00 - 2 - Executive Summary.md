@@ -1,4 +1,5 @@
 # Executive Summary
+
 This comparative study analyzes how **17 jurisdictions** classify health-related information systems and operators as critical infrastructure, plus an additional **20+ countries** surveyed across Latin America, ASEAN, Africa, the Middle East, and Central Asia. Whether framed as *critical information infrastructure*, *critical entities*, *essential services*, or equivalent constructs, this report identifies global patterns and actionable insights for policymakers.
 
 ## Scope of Analysis
@@ -9,6 +10,7 @@ This comparative study analyzes how **17 jurisdictions** classify health-related
 
 
 ## Key Findings
+
 1. **Universal prioritization of life-and-safety digital functions.** Across all 17 jurisdictions, consistent prioritization emerges for: emergency dispatch systems, major hospital clinical platforms (EMR/EHR, ICU monitoring), blood and organ allocation services, disease surveillance systems, and national health information exchanges.
 2. **Multiple designation models, converging on hybrids.** Approaches include:
    - **Sector-based** (USA, Canada): broad coverage, lower precision
@@ -60,20 +62,25 @@ This comparative study analyzes how **17 jurisdictions** classify health-related
 
 
 ## Health Entities Most Commonly Designated
+
 **Near-universal inclusion (80%+ of frameworks):**
+
 - Hospitals with ICU/emergency capability
 - National/regional health information exchanges
 - Blood and organ allocation services
 - Disease surveillance systems
 - Emergency ambulance dispatch (CAD)
 **Frequently included (50–80%):**
+
 - Medical laboratories (reference/diagnostic)
 - Pharmaceutical manufacturers/distributors
 - Medical device manufacturers
 
 
 ## Evidence Labels
+
 Where this report lists systems "most likely" to be treated as critical:
+
 - **(A) Explicit** — directly stated in law/regulation  
 - **(B) Guidance** — stated in official policy documents  
 - **(C) Criteria inference** — inferred from published thresholds  
@@ -81,7 +88,9 @@ Where this report lists systems "most likely" to be treated as critical:
 
 
 ## Methodology
+
 This analysis synthesizes:
+
 - Official legislation and regulations (updated through January 2026)
 - Competent-authority guidance documents and consultation papers
 - Primary source verification for all 17 deep-dive jurisdictions

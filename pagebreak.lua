@@ -1,7 +1,7 @@
 -- pagebreak.lua
 -- Inserts a page break before each level-1 header (chapter)
 local pagebreak_latex = pandoc.RawBlock('latex', '\\newpage')
-local pagebreak_ooxml = pandoc.RawBlock('openxml', '<w:p><w:r><w:br w:type="page"/></w:r></w:p>')
+local pagebreak_ooxml = pandoc.RawBlock('openxml', '<w:p><w:pPr><w:sectPr><w:type w:val="nextPage"/></w:sectPr></w:pPr></w:p>')
 local first_header = true
 function Header(el)
   if el.level == 1 then

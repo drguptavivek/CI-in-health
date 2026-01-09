@@ -75,6 +75,12 @@ def preprocess_markdown(content: str) -> str:
 merged_md = BASE_DIR / "_build_temp_merged.md"
 with open(merged_md, 'w') as out:
     for md_file in md_files:
+        # PDF page numbering logic
+        if "00 - 2 - Executive Summary.md" in md_file.name:
+            out.write('\n```{=latex}\n\\pagenumbering{roman}\n```\n\n')
+        elif "01 - USA.md" in md_file.name:
+            out.write('\n```{=latex}\n\\pagenumbering{arabic}\n\\setcounter{page}{1}\n```\n\n')
+        
         content = md_file.read_text()
         preprocessed = preprocess_markdown(content)
         out.write(preprocessed)
@@ -96,6 +102,10 @@ docx_cmd = [
 ]
 print("\nGenerating DOCX...")
 subprocess.run(docx_cmd, check=True)
+
+# Add footers to DOCX
+print("Adding footers to DOCX...")
+subprocess.run([sys.executable, str(BASE_DIR / "c_add_footers.py"), str(DOCX_OUT)], check=True)
 
 # --------------------
 
