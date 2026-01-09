@@ -7,13 +7,17 @@
 
 \vspace{2cm}
 
-{\Large A policy-grade comparative study\par}
+{\Large A comparative study\par}
 {\Large (updated through January 2026)\par}
 
 \vspace{1.5cm}
 
-{\large Version 2.0\par}
+{\large Version 1.0\par}
 {\large January 2026\par}
+
+\vspace{1.5cm}
+
+{\Large \textbf{Dr Vivek Gupta, MD, MSc} \\ {\large Addl. Prof. and CISO, AIIMS, New Delhi} \par}
 
 \vfill
 
@@ -38,13 +42,30 @@ plus \textbf{20+ countries} surveyed across Latin America, ASEAN, Africa, Middle
 <w:p>
   <w:pPr><w:jc w:val="center"/></w:pPr>
   <w:r><w:rPr><w:sz w:val="32"/></w:rPr>
-    <w:t>A policy-grade comparative study (updated through January 2026)</w:t>
+    <w:t>A comparative study (updated through January 2026)</w:t>
   </w:r>
 </w:p>
 <w:p>
   <w:pPr><w:jc w:val="center"/></w:pPr>
   <w:r><w:rPr><w:sz w:val="28"/></w:rPr>
     <w:t>Version 2.0 — January 2026</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr><w:jc w:val="center"/></w:pPr>
+</w:p>
+<w:p>
+  <w:pPr><w:jc w:val="center"/></w:pPr>
+  <w:r>
+    <w:rPr><w:b/><w:sz w:val="36"/></w:rPr>
+    <w:t>Dr Vivek Gupta, MD, MSc</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr><w:jc w:val="center"/></w:pPr>
+  <w:r>
+    <w:rPr><w:sz w:val="28"/></w:rPr>
+    <w:t>Addl. Prof. and CISO, AIIMS, New Delhi</w:t>
   </w:r>
 </w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
