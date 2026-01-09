@@ -22,7 +22,7 @@
 
 ## Exact legal / regulatory criteria (what triggers inclusion)
 
-### A) The Definition (scope text)
+## A) The Definition (scope text)
 
 **Cybersecurity Law — CII (Article 33 on CAC text)**
 
@@ -33,7 +33,7 @@
 
 * Defines CII by (i) listed sectors (includes **public services, e-government**, etc., and also **national defense technology industry**) and (ii) a harm test (destruction/loss of function/data leakage may seriously endanger national security / people’s livelihood / public interest). ([China Law Translate][2])
 
-### B) The Thresholds (tests stated in the instruments)
+## B) The Thresholds (tests stated in the instruments)
 
 **Cybersecurity Law (graded protection baseline)**
 
@@ -87,7 +87,7 @@
 
 ## Health-sector clauses / guidance (primary, health-specific)
 
-### A) Health systems explicitly “≥ Level 3” in 2011 guidance (NHC/Ministry of Health)
+## A) Health systems explicitly “≥ Level 3” in 2011 guidance (NHC/Ministry of Health)
 
 The 2011 guidance states the graded protection system has five levels and then states the following “important health information systems” are **principally not lower than Level 3**:
 
@@ -102,7 +102,7 @@ It also states:
 
 * **Annual level evaluation (等级测评)** for Level 3+ health information systems. ([National Health Commission][3])
 
-### B) Healthcare institution cybersecurity measures (2022)
+## B) Healthcare institution cybersecurity measures (2022)
 The 2022 measures state they are made with reference to multiple laws/regulations including the Cybersecurity Law and the **CII Security Protection Regulations**, and include a principle:
 * “重点保障关键信息基础设施、网络安全等级保护第三级及以上网络以及重要数据和个人信息安全” (focus protection on CII, MLPS Level 3+ networks, important data and personal information). ([National Health Commission][4])
 

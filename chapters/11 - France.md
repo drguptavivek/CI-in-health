@@ -2,7 +2,7 @@
 **Translation note:** English translations below are **unofficial** glosses of the cited French legal terms/phrases, provided for readability. All legal terms remain as defined in the cited French primary texts.
 
 
-### Final categories (what is “highest critical / protected”)
+## Final categories (what is “highest critical / protected”)
 
 1. **Opérateur d’importance vitale (OIV)** — *(English: “Operator of Vital Importance”)* — category defined in **Code de la défense, Article R.1332-1**.
 2. **Secteur d’activités d’importance vitale (SAIV)** — *(English: “Sector of Vital-Importance Activities”)* — criteria in **Code de la défense, Article R.1332-2**; SAIV list fixed by **Arrêté du 2 juin 2006 modifié**.
@@ -13,9 +13,9 @@
    * **« Veille et alerte sanitaires »** — *(English: “Health surveillance and health alerts”)* (Arrêté du 17 avril 2023).
 
 
-### Exact legal / regulatory criteria (what triggers inclusion)
+## Exact legal / regulatory criteria (what triggers inclusion)
 
-#### A) The Definition
+### A) The Definition
 **A1. OIV (operator-level designation test) — Code de la défense, Article R.1332-1 (II)**
 
 Key French legal phrases → English gloss:
@@ -36,19 +36,19 @@ Key French legal phrase → English gloss:
 
 * **« couverte par le secret de la défense nationale »** → “covered by national defence secrecy”
 
-#### B) The Thresholds
+### B) The Thresholds
 **B1. OIV impact threshold language (qualitative test)** — uses the French qualitative terms above (e.g., **« obérer gravement »**, **« mettre gravement en cause… »**).
 **B2. SAIV substitutability + serious danger tests (qualitative tests)** — uses **« difficilement substituables ou remplaçables »** and **« danger grave pour la population »**.
 
 
-### Grading / tiering scheme
+## Grading / tiering scheme
 
 * **Binary designation**: designated **OIV** vs non-designated.
 * **OIV designation orders**: **« ne sont pas publiés »** → “are not published”; and **not communicable** under the cited CRPA provisions.
 * **No public tiering scheme stated** in the cited SAIV/OIV/SIIV provisions.
 
 
-### Incident reporting tests and thresholds
+## Incident reporting tests and thresholds
 
 **General SIIV incident-information rule (no hour-based deadline stated here)** — **Code de la défense, Article R.1332-41-10**
 
@@ -64,7 +64,7 @@ Key French legal phrase → English gloss:
 * **« ne sont pas publiées »** (Annexes II–IV) → “are not published”
 
 
-### Health information systems “most likely” designated
+## Health information systems “most likely” designated
 
 * **OIV designation list**: designation orders **not published** (**« ne sont pas publiés »**) and **not communicable**.
 * **SIIV lists**: covered by **national defence secrecy** (**« secret de la défense nationale »**).
@@ -74,7 +74,7 @@ Key French legal phrase → English gloss:
   * **« Veille et alerte sanitaires »** *(“Health surveillance and health alerts”)*
 
 
-### Public vs Confidential
+## Public vs Confidential
 
 **Public**
 
@@ -88,7 +88,7 @@ Key French legal phrase → English gloss:
 * **Annexes II–IV** of cited 17 April 2023 health sub-sector orders: **not published**.
 
 
-### Latest updates (2025–2026)
+## Latest updates (2025–2026)
 * **EU NIS2 transposition status (France)** — Commission status page entries (dates shown on the cited page).
 * **Assemblée nationale dossier** — bill docket entries (dates shown on the cited page).
 

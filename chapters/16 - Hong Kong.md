@@ -20,7 +20,7 @@
 
 ## Exact Legal / Regulatory Criteria (primary text)
 
-### A) “Critical infrastructure” — definition + sectors
+## A) “Critical infrastructure” — definition + sectors
 
 **Definition (section 2):** “critical infrastructure” means an infrastructure that is:
 
@@ -31,7 +31,7 @@
 **Schedule 1 sectors** (for the definition of “critical infrastructure”) include: **Energy; Information technology; Banking and financial services; Air transport; Land transport; Maritime transport; Healthcare services; Telecommunications and broadcasting services**. ([Legislative Council of Hong Kong][1])
 
 
-### B) “Specified critical infrastructure” — which regulator applies
+## B) “Specified critical infrastructure” — which regulator applies
 
 For a **critical infrastructure** to be a **specified critical infrastructure** (section 2(3)):
 
@@ -46,7 +46,7 @@ For a **critical infrastructure** to be a **specified critical infrastructure** 
 **Regulating authority rule (section 5):** the **Commissioner** is the regulating authority for CI operators **unless** the operator operates a specified critical infrastructure specified for a **designated authority**, in which case the **designated authority** regulates that operator. ([Legislative Council of Hong Kong][1])
 
 
-### C) CI operator — designation test (section 12)
+## C) CI operator — designation test (section 12)
 
 A regulating authority may **designate an organization** as a **CI operator** if the authority determines the organization has **ownership or control** in relation to the **operation** of the whole or part of a specified critical infrastructure, including (examples listed in section 12(2)):
 
@@ -61,7 +61,7 @@ In deciding whether to designate, section 12(3) lists factors including:
 * any other factor the authority considers relevant. ([Legislative Council of Hong Kong][1])
 
 
-### D) Critical computer system — designation test (section 13)
+## D) Critical computer system — designation test (section 13)
 
 A regulating authority may **designate a computer system** as a **critical computer system** of a specified critical infrastructure if (section 13(1)):
 
@@ -80,21 +80,21 @@ In designating, section 13(2) lists factors including:
 
 ## Obligations on CI operators (Part 4)
 
-### Category structure (definitions)
+## Category structure (definitions)
 
 * **Category 1 obligation:** an obligation in **Division 1 of Part 4** ([Legislative Council of Hong Kong][1])
 * **Category 2 obligation:** an obligation in **Division 2 of Part 4** ([Legislative Council of Hong Kong][1])
 * **Category 3 obligation:** an obligation in **Division 3 of Part 4** ([Legislative Council of Hong Kong][1])
 
 
-### Category 1 obligations (examples)
+## Category 1 obligations (examples)
 
 **Section 19 — Office in Hong Kong / contact means:** CI operator must **maintain an office in Hong Kong** and **provide the regulating authority** with (among other items) the **address**, and the **means** by which the operator may be contacted. ([Legislative Council of Hong Kong][1])
 
 **Section 21 — Computer-system security management unit:** CI operator must **establish a unit** (however described) responsible for computer-system security of critical computer systems and must provide specified particulars to the regulating authority. ([Legislative Council of Hong Kong][1])
 
 
-### Category 2 obligations (management plan + change notification + risk assessment + audit)
+## Category 2 obligations (management plan + change notification + risk assessment + audit)
 
 **Section 22 — Notify certain events within 1 month:** if events listed in section 22(2) occur (including material change to design/configuration/security/operation of a critical computer system; removal of a critical computer system; adding an accessible system essential to core function; or change making an existing accessible system essential to core function), the CI operator must **notify** the regulating authority **within 1 month** of the event. ([Legislative Council of Hong Kong][1])
 
@@ -113,7 +113,7 @@ In designating, section 13(2) lists factors including:
 * report to regulator: **within 3 months** after expiry of the period for carrying out the audit (extendable on application). ([Legislative Council of Hong Kong][1])
 
 
-### Category 3 obligations (drills + emergency response plan + incident reporting)
+## Category 3 obligations (drills + emergency response plan + incident reporting)
 
 **Section 26 — Participation in drills:** Commissioner may require a CI operator to participate in a computer-system security drill (after reasonable notice). ([Legislative Council of Hong Kong][1])
 
@@ -132,7 +132,7 @@ In designating, section 13(2) lists factors including:
 * **within 14 days** for the written report in item 2. ([Legislative Council of Hong Kong][1])
 
 
-### HEALTH
+## HEALTH
 
 There is **one explicit health-specific element** in the Ordinance, and the rest is written in **sector-neutral** terms.
 

@@ -4,9 +4,30 @@
 \usepackage{booktabs}
 \usepackage{fontspec}
 
-% Set main font to support Hebrew, Cyrillic, and other Unicode characters
-\setmainfont{Arial Unicode MS}
-\setmonofont{Menlo} % Optional: set a mono font that might support box-drawing
+% Set main font to Charter (Body) and Helvetica Neue (Headings/Sans)
+\setmainfont{Charter}
+\setsansfont{Helvetica Neue}
+\setmonofont{Menlo}
+
+% Define fonts for multilingual support
+\newfontfamily\cjkfont{PingFang SC}
+\newfontfamily\fallbackfont{Arial Unicode MS}[
+  BoldFont={Arial Unicode MS},
+  BoldFeatures={FakeBold=2.5},
+  ItalicFont={Arial Unicode MS},
+  ItalicFeatures={FakeSlant=0.2}
+]
+
+% Automatic font switching for non-Latin characters
+\usepackage{ucharclasses}
+% Define transitions for specific Unicode blocks
+\setTransitionsFor{CJKUnifiedIdeographs}{\begingroup\cjkfont}{\endgroup}
+\setTransitionsFor{CJKUnifiedIdeographsExtensionA}{\begingroup\cjkfont}{\endgroup}
+\setTransitionsFor{CJKPunctuations}{\begingroup\cjkfont}{\endgroup}
+\setTransitionsFor{Hebrew}{\begingroup\fallbackfont}{\endgroup}
+\setTransitionsFor{Cyrillic}{\begingroup\fallbackfont}{\endgroup}
+\setTransitionsFor{MathematicalOperators}{\begingroup\fallbackfont}{\endgroup}
+\setTransitionsFor{Arrows}{\begingroup\fallbackfont}{\endgroup}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}

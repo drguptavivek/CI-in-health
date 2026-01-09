@@ -9,7 +9,7 @@
 
 ## Exact legal / regulatory criteria (what triggers inclusion)
 
-### Subsection A (The Definition): the specific text defining the scope
+## Subsection A (The Definition): the specific text defining the scope
 
 **1) Database security levels (basic / medium / high)** — definitions (Data Security Regulations, 2017):
 
@@ -26,7 +26,7 @@
 
 * “פעולות אבטחה” includes “פעילות לאבטחת מידע שחשיפתו עלולה לפגוע בבטחון המדינה” (activity to secure information whose exposure may harm state security).
 
-### Subsection B (The Thresholds): quantitative or qualitative tests
+## Subsection B (The Thresholds): quantitative or qualitative tests
 
 **Severe security incident thresholds** are explicitly differentiated by the database’s security level:
 
@@ -43,11 +43,11 @@
 
 ## Incident reporting tests and thresholds
 
-### Deadlines: 24-hour / 72-hour rules
+## Deadlines: 24-hour / 72-hour rules
 
 **No 24h/72h deadline text located in the accessible primary regulatory text used below** (Data Security Regulations). The regulation uses **“באופן מיידי”** (“immediately”) for notification to the Registrar in the severe-incident case.
 
-### Triggers: what counts as a reportable incident
+## Triggers: what counts as a reportable incident
 
 **Trigger + duty (Data Security Regulations, Regulation 11(ד))**:
 
@@ -62,7 +62,7 @@
 
 ## Health information systems “most likely” designated
 
-### What is explicit in accessible primary sources
+## What is explicit in accessible primary sources
 
 **Healthcare entities referenced as part of “health organizations” (State Comptroller report)**:
 
@@ -71,7 +71,7 @@
 
 * “מאגר מידע הכולל מידע שבעל המאגר כפוף בשלו לחובת סודיות מקצועית לפי דין או לפי עקרונות של אתיקה מקצועית” (a database including information subject to professional confidentiality by law or professional ethics).
 
-### Evidence-based inference
+## Evidence-based inference
 
 Based on (a) the explicit scope of “health organizations” above and (b) the Data Security Regulations’ database-security-level framework, examples of **health-sector information systems that commonly operate as “databases” containing professionally confidential health information** include: **EHR/EMR databases, hospital information systems, laboratory information systems, radiology/PACS archives, pharmacy systems, appointment & admissions systems, emergency dispatch/ambulance care records, and national/regional registries**.
 

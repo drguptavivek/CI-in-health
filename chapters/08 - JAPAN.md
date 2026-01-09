@@ -1,12 +1,12 @@
 # JAPAN
 
 
-### Legal Basis
+## Legal Basis
 
 * **Basic Act on Cybersecurity (Act No. 104 of 2014)** — establishes the national cybersecurity policy framework and defines *critical social infrastructure providers* as those providing infrastructure foundational to people’s lives/economic activity where failure/deterioration would have enormous impact.
 * **Cybersecurity Policy for Critical Infrastructure Protection** (Cybersecurity Strategic Headquarters; June 17, 2022; revised March 8, 2024) — sets the government-wide CIP framework and terminology for CI operators, CI sectors, CI services, and “critical information systems”.
 
-### Final Categories (as used in the CIP framework)
+## Final Categories (as used in the CIP framework)
 
 From the **Cybersecurity Policy for Critical Infrastructure Protection**:
 
@@ -14,7 +14,7 @@ From the **Cybersecurity Policy for Critical Infrastructure Protection**:
 * **CI operators**: defined in the policy as “critical social infrastructure providers” (per the Basic Act) and further scoped via **ANNEX 1**.
 * **Critical information systems**: information systems required to provide CI services, designated for each CI operator based on degree of impact on CI services.
 
-### “Medical services” as a CI sector — what the policy explicitly says
+## “Medical services” as a CI sector — what the policy explicitly says
 
 **ANNEX 1 (scope/examples) includes:**
 
@@ -28,7 +28,7 @@ From the **Cybersecurity Policy for Critical Infrastructure Protection**:
 * Example impacts: hindrance to medical examination support departments; malfunction of medical equipment threatening human life
 * Referenced guidance: “Guideline on Safety Management of Medical Information Systems”
 
-### Health-sector cybersecurity governance signals from MHLW (evidence from your PDFs)
+## Health-sector cybersecurity governance signals from MHLW (evidence from your PDFs)
 
 * **Basic Policy for Cyber-security Measures at Medical Facilities**:
   * The policy context explicitly places healthcare cyber measures alongside:
@@ -42,18 +42,18 @@ From the **Cybersecurity Policy for Critical Infrastructure Protection**:
 * The version history explicitly notes that **Version 2** was “revised from the viewpoint of healthcare information systems as **critical infrastructure**.” 
 * It also notes that because **online qualification check** became mandatory (from April 2023), “almost all medical facilities, etc., are required to take the network-related security measures” described in the guidelines. 
 
-### Medical devices cybersecurity (incident handling / reporting) — evidence
+## Medical devices cybersecurity (incident handling / reporting) — evidence
 
 **From the PMDA/MHLW English reference translation you uploaded (000272598.pdf):**
 
 * It describes cybersecurity expectations across the lifecycle (pre-market resilience; post-market vulnerability correction/patching; incident handling) and provides for reporting pathways/forms to PMDA in the described framework. 
 
-### Grading / Tiering schemes (what we can and cannot claim evidentially)
+## Grading / Tiering schemes (what we can and cannot claim evidentially)
 
 * **No public numeric thresholding for “medical CI” appears in the CI policy text** (it uses the qualitative boundary “medical facilities (excluding small scale facilities)” in ANNEX 1).
 * The CIP framework does define **information-sharing structures and policy measures**, but **a public hospital-tier scoring rubric (A/B/C or Tier 1/2/3)** is **not evidenced** by the sources opened above, so it is **omitted** here.
 
-### Health information systems most defensibly “in-scope / critical”
+## Health information systems most defensibly “in-scope / critical”
 
 Based strictly on **ANNEX 1 examples for “medical services”** in the CIP policy:
 

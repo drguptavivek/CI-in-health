@@ -17,13 +17,13 @@
 
 ## Exact legal / regulatory criteria (what triggers inclusion)
 
-### A) The Definition (scope text)
+## A) The Definition (scope text)
 
 * **National Critical Infrastructure (CI)** definition (OHS Guidelines): assets/systems/networks (public/private; physical/virtual) whose disruption may negatively impact government/society, cause casualties, losses, economic downturn, environmental changes, or damage national security/interests. 
 * **Critical Information Infrastructure (CII)** definition (OHS Guidelines): “vital information and communication systems or SCADA” dealing with core task functions and supporting continuous operation of national CI; managed under a single authority according to the CI sector it belongs to. 
 * **Critical infrastructure providers** designation construct (CSMA Article 20): the central competent authority for the relevant sector **designates critical infrastructure providers**, submits the designation **for approval by the Executive Yuan**, and notifies approved entities in writing. ([Law Moda][1])
 
-### B) The Thresholds (quantitative / qualitative tests)
+## B) The Thresholds (quantitative / qualitative tests)
 
 * **No numeric thresholds are stated** in the cited legal text for when an entity becomes a “critical infrastructure provider.” The designation mechanism is described as an administrative designation/approval process (CSMA Article 20). ([Law Moda][1])
 
@@ -41,7 +41,7 @@
 
 ## Incident reporting tests and thresholds
 
-### Deadlines
+## Deadlines
 
 From the *Regulations on the Notification and Response of Cyber Security Incident*:
 
@@ -55,7 +55,7 @@ From the *Regulations on the Notification and Response of Cyber Security Inciden
   * When aware of a cyber security incident, must **notify** the central competent authority for the relevant sector; for **level-3/4**, notification must be **within 1 hour** (Regulations, Article 11). ([Ministry of Digital Affairs][2])
   * After completing damage control or recovery, must submit an **investigation/handling report**, and then submit a **corrective action report** (Articles 11–12). ([Ministry of Digital Affairs][2])
 
-### Triggers (what counts as reportable)
+## Triggers (what counts as reportable)
 
 * The same regulation defines incident **levels 1–4**; the level definitions reference (among other factors) whether the event affects **core business information** and/or a **core information and communication system**, and the scope/duration/extent of disruption (Article 2). ([Ministry of Digital Affairs][2])
 

@@ -1,13 +1,22 @@
-% Add vertical space before H2 and H3 headings
-% Using basic LaTeX - no external packages needed
-% Define lengths for spacing
-\newlength{\h2spacing}
-\newlength{\h3spacing}
-\setlength{\h2spacing}{12pt}
-\setlength{\h3spacing}{10pt}
-% Modify subsection spacing (H2)
-\let\oldsubsection\subsection
-\renewcommand\subsection{\vspace{\h2spacing}\oldsubsection}
-% Modify subsubsection spacing (H3)
-\let\oldsubsubsection\subsubsection
-\renewcommand\subsubsection{\vspace{\h3spacing}\oldsubsubsection}
+% Heading styles using standard LaTeX commands (no extra packages needed)
+\makeatletter
+
+% Section (H1)
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\sffamily\fontsize{24}{28}\selectfont\bfseries}}
+
+% Subsection (H2)
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\sffamily\fontsize{18}{22}\selectfont\bfseries}}
+
+% Subsubsection (H3)
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\sffamily\fontsize{14}{17}\selectfont\bfseries}}
+
+\makeatother

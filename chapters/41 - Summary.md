@@ -3,7 +3,7 @@
 ## Comparative Framework Overview
 This study provides deep-dive analysis of **17 jurisdictions** with detailed chapter coverage, plus an additional **20+ countries** surveyed in the multi-region overview table.
 
-### Deep-Dive Jurisdictions (17 Countries)
+## Deep-Dive Jurisdictions (17 Countries)
 | Country/Region | Designation Model | Transparency | Explicit Thresholds | 2025-2026 Updates |
 | :---- | :---- | :---- | :---- | :---- |
 | **USA** | Sector-level (HPH sector) | Frameworks public, priorities confidential | No (voluntary, qualitative) | **CIRCIA final rule expected (May 2026), 72-hr incident/24-hr ransom reporting** |
@@ -55,7 +55,7 @@ This study provides deep-dive analysis of **17 jurisdictions** with detailed cha
 
 # Emerging Global Trends (2025-2026)
 
-### Key Regulatory Milestones (2025-2026)
+## Key Regulatory Milestones (2025-2026)
 | Date | Jurisdiction | Milestone |
 |:-----|:-------------|:----------|
 | **1 Apr 2025** | Switzerland | Cybersecurity Ordinance (CSV) enters into force; 24-hour reporting |
@@ -71,19 +71,19 @@ This study provides deep-dive analysis of **17 jurisdictions** with detailed cha
 | **May 2026** | USA | CIRCIA final rule expected |
 | **17 July 2026** | EU | CER Directive deadline for identifying critical entities |
 
-### 1. Supply Chain Regulation Expansion
+## 1. Supply Chain Regulation Expansion
 
 * **UK**: New Bill explicitly targets **Managed Service Providers (MSPs)** and **critical suppliers**  
 * **EU**: NIS2 includes manufacturers of medical devices and pharmaceuticals  
 * **Implication**: Future frameworks must include criteria for assessing and mandating security standards for third and fourth-party vendors
 
-### 2. All-Hazard Resilience Integration
+## 2. All-Hazard Resilience Integration
 
 * **EU CER Directive**: Mandates resilience plans for physical, environmental, natural disaster, and supply chain disruptions  
 * **Shift**: Moving beyond pure cybersecurity to require planning for broader disruptions that could impact digital services  
 * **Implication**: Critical infrastructure frameworks should integrate business continuity planning for multi-hazard scenarios
 
-### 3. Stricter & Harmonized Incident Reporting
+## 3. Stricter & Harmonized Incident Reporting
 Global convergence towards standardized reporting timelines:
 | Reporting Stage | Common Standard | Examples |
 |:----------------|:----------------|:---------|
@@ -92,7 +92,7 @@ Global convergence towards standardized reporting timelines:
 | **Final report** | 14-30 days | Hong Kong (14d), Norway (1 month), EU NIS2 (1 month) |
 | **Ransom payment** | 24 hours | USA CIRCIA, Australia |
 
-### 4. Enhanced Enforcement Postures
+## 4. Enhanced Enforcement Postures
 
 * **Australia**: Shift to "stricter enforcement-oriented posture" from January 2026  
 * **EU**: Significant penalties (up to €10M or 2% global turnover)  
@@ -116,7 +116,7 @@ This section synthesizes lessons learned from the 17 jurisdictions analyzed, org
 ## Which Health Entities to Include (Global Consensus)
 Based on analysis across all 17 jurisdictions, the following entities appear most frequently in CI/CII frameworks:
 
-### Tier 1: Near-Universal Inclusion (explicitly included in 80%+ of frameworks)
+## Tier 1: Near-Universal Inclusion (explicitly included in 80%+ of frameworks)
 | Entity Type | Notes | Example Jurisdictions |
 |:------------|:------|:----------------------|
 | **Hospitals with ICU/emergency capability** | Often defined by bed count or case volume | Australia, Germany, UK, EU, Hong Kong |
@@ -125,7 +125,7 @@ Based on analysis across all 17 jurisdictions, the following entities appear mos
 | **Disease surveillance systems** | Epidemic response capability | All jurisdictions (explicitly or implicitly) |
 | **Emergency ambulance dispatch (CAD)** | Often in "emergency services" sector | UK, EU, Australia |
 
-### Tier 2: Frequently Included (50-80% of frameworks)
+## Tier 2: Frequently Included (50-80% of frameworks)
 | Entity Type | Notes | Example Jurisdictions |
 |:------------|:------|:----------------------|
 | **Medical laboratories (reference/diagnostic)** | Often linked to epidemic response | Switzerland, EU, Germany |
@@ -133,7 +133,7 @@ Based on analysis across all 17 jurisdictions, the following entities appear mos
 | **Medical device manufacturers** | Especially IVD and implantables | EU (NIS2 Annex II), Germany |
 | **National immunization registries** | Pandemic preparedness | Japan, Taiwan |
 
-### Tier 3: Variable Inclusion (depends on national context)
+## Tier 3: Variable Inclusion (depends on national context)
 | Entity Type | Notes | Jurisdictions with Explicit Inclusion |
 |:------------|:------|:--------------------------------------|
 | **Private hospital chains** | Based on market share or regional importance | Singapore, Hong Kong |
@@ -187,33 +187,33 @@ Based on analysis across all 17 jurisdictions, the following entities appear mos
 Based on comprehensive analysis and latest global developments:
 
 
-### **1\. Adopt Hybrid Criticality Criteria**
+## **1\. Adopt Hybrid Criticality Criteria**
 * **Combine Approaches**: Use explicit thresholds (like Germany's 30,000 cases, Australia's ICU presence) for objectivity, supplemented by qualitative assessment for unique critical providers.  
 * **Include Supply Chain**: Explicitly incorporate MSPs and critical suppliers in scope (following UK model).  
 * **Functional \+ Size-Based**: Combine functional designations (emergency services, blood/organ systems) with size-based thresholds (EU's ≥50 employees).
 
-### **2\. Implement Proportional Three-Tier System**
+## **2\. Implement Proportional Three-Tier System**
 * **Tier 1 (Essential/Critical)**: Highest obligations, ex-ante supervision, 24/7 monitoring requirements  
 * **Tier 2 (Important)**: Moderate obligations, ex-post supervision, regular assessments  
 * **Tier 3 (Baseline)**: Basic cyber hygiene, voluntary reporting  
 * **Align Penalties**: Proportionate penalties based on tier and organizational size
 
-### **3\. Establish Clear Incident Reporting Thresholds**
+## **3\. Establish Clear Incident Reporting Thresholds**
 * **Adopt UK-Style Metrics**: Implement explicit, quantitative incident thresholds (patient counts, service disruption durations)  
 * **Harmonize Timelines**: Align with emerging global standards (24-hour initial, 72-hour detailed)  
 * **Special Ransomware Reporting**: Consider mandatory ransom payment reporting within 24 hours
 
-### **4\. Ensure Strategic Transparency**
+## **4\. Ensure Strategic Transparency**
 * **Public Criteria**: Publish clear designation criteria enabling self-assessment  
 * **Confidential Lists**: Maintain confidential entity lists to avoid creating target lists  
 * **Aggregate Reporting**: Publish anonymized sector statistics and case studies for learning
 
-### **5\. Integrate All-Hazard Resilience**
+## **5\. Integrate All-Hazard Resilience**
 * **Beyond Cybersecurity**: Require business continuity and disaster recovery planning for physical, environmental, and supply chain disruptions  
 * **Regular Testing**: Mandate annual or biennial testing of resilience plans  
 * **Cross-Sector Dependencies**: Map and address interdependencies with other critical infrastructure sectors
 
-### **6\. Future-Proof for Emerging Technologies**
+## **6\. Future-Proof for Emerging Technologies**
 * **Telehealth Platforms**: Explicitly include national/regional telehealth systems  
 * **AI/ML Systems**: Consider criticality of AI-driven diagnostic and treatment systems  
 * **IoT Medical Devices**: Address security of connected medical device ecosystems
@@ -246,18 +246,18 @@ START: Is health explicitly listed as a CI sector in existing national law?
 
 ## Phase 1: Foundation (Months 1-6)
 
-### 1.1 Legal Authority Assessment
+## 1.1 Legal Authority Assessment
 - [ ] Review existing cybersecurity/CI laws for health sector applicability
 - [ ] Identify gaps requiring new legislation vs ministerial regulation
 - [ ] Map existing health sector regulatory bodies and their powers
 
-### 1.2 Sector Risk Assessment
+## 1.2 Sector Risk Assessment
 
 - [ ] Inventory major health information systems in the country
 - [ ] Identify single points of failure (sole providers, national systems)
 - [ ] Assess current incident reporting and cyber hygiene baseline
 
-### 1.3 Stakeholder Mapping
+## 1.3 Stakeholder Mapping
 
 - [ ] Identify designated authority (cybersecurity agency, health ministry, or hybrid)
 - [ ] Map hospitals, labs, insurers, technology vendors in health sector
@@ -266,19 +266,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 
 ## Phase 2: Design & Consultation (Months 7-12)
 
-### 2.1 Develop Designation Criteria
+## 2.1 Develop Designation Criteria
 
 - [ ] Define quantitative thresholds (e.g., bed count, case volume, employee count)
 - [ ] Add qualitative safety-net criteria (sole provider, unique capability)
 - [ ] Draft "regardless of size" exception triggers
 
-### 2.2 Draft Obligations Framework
+## 2.2 Draft Obligations Framework
 
 - [ ] Tier 1 (Essential): Risk management plan, security officer, 24h reporting, annual audit
 - [ ] Tier 2 (Important): Risk management, 72h reporting, biennial assessment
 - [ ] Tier 3 (Baseline): Basic cyber hygiene, voluntary reporting
 
-### 2.3 Stakeholder Consultation
+## 2.3 Stakeholder Consultation
 
 - [ ] Publish draft framework for public comment
 - [ ] Conduct workshops with hospital associations, health IT vendors
@@ -287,19 +287,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 
 ## Phase 3: Pilot Implementation (Months 13-18)
 
-### 3.1 Pilot Designation
+## 3.1 Pilot Designation
 
 - [ ] Designate 5-10 largest/most critical entities for pilot
 - [ ] Test designation process and notification procedures
 - [ ] Refine criteria based on pilot feedback
 
-### 3.2 Develop Operational Guidance
+## 3.2 Develop Operational Guidance
 
 - [ ] Create sector-specific security controls guidance (reference: Germany B3S, UK CAF)
 - [ ] Develop incident reporting forms and submission system
 - [ ] Establish information-sharing mechanisms (CERT, sectoral ISAC)
 
-### 3.3 Capacity Building
+## 3.3 Capacity Building
 
 - [ ] Train designated entities on compliance requirements
 - [ ] Train regulatory staff on supervision and enforcement
@@ -308,19 +308,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 
 ## Phase 4: Full Implementation (Months 19-24)
 
-### 4.1 Full Rollout
+## 4.1 Full Rollout
 
 - [ ] Designate all in-scope entities based on final criteria
 - [ ] Activate mandatory incident reporting
 - [ ] Begin compliance monitoring
 
-### 4.2 Enforcement Framework
+## 4.2 Enforcement Framework
 
 - [ ] Establish graduated enforcement (warning → compliance order → fine)
 - [ ] Publish anonymized enforcement statistics for sector learning
 - [ ] Create appeals/review mechanism
 
-### 4.3 Cross-Sector Integration
+## 4.3 Cross-Sector Integration
 
 - [ ] Map interdependencies with power, telecom, water CI
 - [ ] Establish joint incident response protocols
@@ -329,19 +329,19 @@ START: Is health explicitly listed as a CI sector in existing national law?
 
 ## Phase 5: Maturity & Evolution (Ongoing)
 
-### 5.1 Continuous Improvement
+## 5.1 Continuous Improvement
 
 - [ ] Conduct annual review of designation criteria effectiveness
 - [ ] Update thresholds based on sector evolution (e.g., telehealth growth)
 - [ ] Incorporate lessons from incident response
 
-### 5.2 International Alignment
+## 5.2 International Alignment
 
 - [ ] Monitor and align with regional frameworks (EU NIS2, ASEAN, etc.)
 - [ ] Participate in international information-sharing networks
 - [ ] Consider mutual recognition agreements for cross-border operators
 
-### 5.3 Emerging Technology Integration
+## 5.3 Emerging Technology Integration
 
 - [ ] Add AI/ML diagnostic systems to scope consideration
 - [ ] Address IoT medical device security

@@ -1,6 +1,6 @@
 # CANADA
 
-### Final category
+## Final category
 
 Canada’s top-level framing for “critical / protected” health systems is **sector-based**:
 
@@ -8,9 +8,9 @@ Canada’s top-level framing for “critical / protected” health systems is **
 2. **Federally regulated “critical cyber systems” (designation-based obligations) — via Bill C-8 / proposed CCSPA framework** for **designated operators** of certain **vital services/systems** within Parliament’s jurisdiction (not a “health CI designation list,” but relevant to cross-cutting dependencies such as telecom, energy/pipelines, transport, banking/clearing). ([Ministère de la Justice][2])
 
 
-### Exact legal / policy criteria used
+## Exact legal / policy criteria used
 
-#### A) National Critical Infrastructure (Public Safety Canada) — public definition + sector model
+### A) National Critical Infrastructure (Public Safety Canada) — public definition + sector model
 
 **CI definition (public):** CI refers to “processes, systems, facilities, technologies, networks, assets and services” essential to Canadians’ health/safety/security/economic well-being and the effective functioning of government. ([Public Safety Canada][1])
 
@@ -21,7 +21,7 @@ Canada’s top-level framing for “critical / protected” health systems is **
 * **shared responsibilities** across federal/provincial/territorial governments, local authorities, and owners/operators, with owners/operators bearing primary responsibility for protecting assets/services; ([Public Safety Canada][1])
 * an **all-hazards risk management approach** and improved **information sharing/protection** among partners. ([Public Safety Canada][1])
 
-#### B) Federal designation-based cyber obligations (Bill C-8 / CCSPA concept)
+### B) Federal designation-based cyber obligations (Bill C-8 / CCSPA concept)
 
 **What CCSPA would do (as described by Justice Canada):**
 
@@ -32,7 +32,7 @@ Canada’s top-level framing for “critical / protected” health systems is **
 **Bill text purpose clause (primary text):** the purpose is to protect critical cyber systems to support continuity/security of vital services/systems, including managing cyber risks (incl. supply chain/third-party), protecting systems from compromise, detecting incidents, and minimizing impacts. ([Parliament of Canada][3])
 
 
-### Grading / tiering scheme
+## Grading / tiering scheme
 
 Canada’s CI model is primarily **sector-in-scope** (e.g., “Health” as a CI sector) rather than a published graded tiering of all health information systems. ([Public Safety Canada][1])
 
@@ -41,7 +41,7 @@ Under the CCSPA approach (if enacted), the main “tier” is **designation stat
 * **designated operator** vs **non-designated operator** (federally regulated vital service/system operators). ([Ministère de la Justice][2])
 
 
-### “Higher security” triggers relevant to health (what becomes critical in practice)
+## “Higher security” triggers relevant to health (what becomes critical in practice)
 
 Because Canada’s national CI approach is sector + consequence + interdependency (rather than a single national list), the most “critical / higher-security” health systems are typically those whose disruption plausibly causes:
 
@@ -51,7 +51,7 @@ Because Canada’s national CI approach is sector + consequence + interdependenc
 This supports prioritizing, in practice (examples, not an official list): core hospital operational platforms, emergency workflows, key diagnostic and medication systems, public health coordination platforms, and enterprise identity/network controls that have wide “blast radius.”
 
 
-### Public vs confidential
+## Public vs confidential
 
 **Public**
 
@@ -63,7 +63,7 @@ This supports prioritizing, in practice (examples, not an official list): core h
 Specific, organization-level inventories of “most critical” systems (within hospitals/provinces/health authorities) are generally managed via risk management and operational security processes implied by the partnership/owner-operator responsibility model, rather than published as a single universal national register in the cited framework. ([Public Safety Canada][1])
 
 
-### Latest updates (strictly sourced)
+## Latest updates (strictly sourced)
 
 * **Public Safety Canada CI overview page** shows update metadata (Jan 2025) and reiterates CI definition + the 10 sectors including Health. ([Public Safety Canada][6])
 * **Cyber Centre CI guidance page** shows update metadata (Jul 2025) and reiterates CI definition, sector list, and CI cyber impacts. ([Canadian Centre for Cyber Security][4])

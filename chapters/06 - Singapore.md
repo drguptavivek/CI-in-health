@@ -1,6 +1,6 @@
 # SINGAPORE
 
-### **Final Categories**
+## **Final Categories**
 
 **Cybersecurity Act (2018; amended 2024)**
 
@@ -11,7 +11,7 @@
 * CSA identifies **Healthcare** as one of the critical sectors in scope for CII-protected essential services. ([Cyber Security Agency of Singapore][1])
 
 
-### **Exact Legal/Regulatory Criteria (designation test)**
+## **Exact Legal/Regulatory Criteria (designation test)**
 
 Under **section 7(1)** (as described in CSA’s official FAQ and the Act’s Explanatory Statement), a system may be designated as CII where it is:
 
@@ -24,12 +24,12 @@ Under **section 7(1)** (as described in CSA’s official FAQ and the Act’s Exp
 * Designation takes effect for **5 years** unless withdrawn earlier; CSA explains this as allowing periodic re-evaluation as circumstances change. ([Isomer User Content][2])
 
 
-### **Grading/Tiering Schemes**
+## **Grading/Tiering Schemes**
 
 * **No published multi-tier grading** for CII designation — the regime is essentially **designated CII vs non-CII** (with the list of designated CII itself not public). ([Cyber Security Agency of Singapore][1])
 
 
-### **Obligations once designated (high-level; from official explanatory material + CSA CII Code)**
+## **Obligations once designated (high-level; from official explanatory material + CSA CII Code)**
 
 From the Cybersecurity Act Explanatory Statement, CII owners’ duties include (among others):
 
@@ -41,7 +41,7 @@ From the Cybersecurity Act Explanatory Statement, CII owners’ duties include (
 CSA publishes the **Cybersecurity Code of Practice for CII (PDF)** under its legislation resources (non-compliance is enforceable via directions under the Act, per the Explanatory Statement). ([Cyber Security Agency of Singapore][3])
 
 
-### **Healthcare information systems “most likely” designated CII**
+## **Healthcare information systems “most likely” designated CII**
 
 **Strict evidentiary position (what can be said publicly):**
 
@@ -52,7 +52,7 @@ CSA publishes the **Cybersecurity Code of Practice for CII (PDF)** under its leg
 * MOH has issued **Cyber and Data Security Guidelines for Healthcare Providers** in the context of safe contribution/access to **NEHR** (this is a healthcare-sector cyber baseline document, not a publication of CII designations). ([Health Information][4])
 
 
-### **Public vs Confidential**
+## **Public vs Confidential**
 
 **Public:**
 
@@ -63,7 +63,7 @@ CSA publishes the **Cybersecurity Code of Practice for CII (PDF)** under its leg
 * **The list of CII and CII owners is secret** (CSA’s explicit statement). ([Cyber Security Agency of Singapore][1])
 
 
-### **Latest Updates (2024–2026) — what can be evidenced from official sources**
+## **Latest Updates (2024–2026) — what can be evidenced from official sources**
 
 * CSA states **amendments to the Cybersecurity Act were passed in Parliament in May 2024**, including updates to the CII provisions (and new regulated classes like STCC/ESCI/FDI). ([Cyber Security Agency of Singapore][5])
 * CSA’s legislation pages show the current published **CII Code of Practice** and its last-updated date on the site. ([Cyber Security Agency of Singapore][3])

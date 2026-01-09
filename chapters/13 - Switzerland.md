@@ -7,7 +7,7 @@
 
 ## Exact legal / regulatory criteria (what triggers inclusion)
 
-### Subsection A (The Definition): the specific text defining the scope
+## Subsection A (The Definition): the specific text defining the scope
 
 **Scope by category (ISG Art. 74b “Bereiche – Die Meldepflicht gilt für”)** includes, among other sectors, the following health-relevant categories:
 
@@ -20,7 +20,7 @@
 
 * CSV specifies sectoral exclusion conditions for listed categories (e.g., higher education; energy; transport; post; civil aviation etc.). 
 
-### Subsection B (The Thresholds): quantitative or qualitative tests
+## Subsection B (The Thresholds): quantitative or qualitative tests
 
 **Reportable cyberattack conditions (ISG Art. 74d):** a cyberattack on a critical infrastructure must be reported if there are indications that:
 
@@ -54,7 +54,7 @@
 
 ## Health information systems “most likely” designated
 
-### Explicit in law
+## Explicit in law
 
 * The primary instruments define **entity categories** (e.g., hospitals on cantonal hospital lists; permitted medical laboratories; authorised medicines/medical-device businesses). They do **not** list specific health **information system types** (e.g., EHR, PACS) as named items. ([Newsd][1])
 

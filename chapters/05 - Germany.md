@@ -1,6 +1,6 @@
 # GERMANY
 
-### Final categories
+## Final categories
 
 Germany applies **two distinct, formal classification layers** that can bring health-sector entities/systems into heightened cybersecurity obligations:
 
@@ -13,9 +13,9 @@ Germany applies **two distinct, formal classification layers** that can bring he
    * Official statements indicate the **NIS-2 implementation law entered into force on 6 Dec 2025**. ([Bundesregierung][4])
 
 
-### Exact legal / regulatory criteria (how classification is determined)
+## Exact legal / regulatory criteria (how classification is determined)
 
-#### A) KRITIS (Health sector) — threshold test in BSI-KritisV Anhang 5
+### A) KRITIS (Health sector) — threshold test in BSI-KritisV Anhang 5
 
 A health installation is KRITIS-relevant when it matches an Anlagenkategorie in **Anhang 5** and meets the defined **Schwellenwert**. 
 
@@ -28,7 +28,7 @@ Examples explicitly shown in the annex include:
 **Timing rule (when KRITIS status applies):** the BSI-KritisV provides that an installation is treated as KRITIS **from 1 April of the calendar year following** the year in which the threshold is first reached/ exceeded (and ceases similarly after dropping below). ([bmi.bund.de][6])
 
 
-#### B) NIS2 (BSIG 2025) — entity/sector test via Anlage 1 & Anlage 2
+### B) NIS2 (BSIG 2025) — entity/sector test via Anlage 1 & Anlage 2
 
 Under the BSIG consolidated 2025 version, the sector lists in **Anlage 1** and **Anlage 2** are used to classify organisations as:
 
@@ -44,24 +44,24 @@ depending on the applicable sector listing and legal framing. ([Gesetze im Inter
 *(The evidence above is limited to the retrieved official passages.)*
 
 
-### Registration / notification (explicit requirement)
+## Registration / notification (explicit requirement)
 
 The BSIG includes a **registration obligation**: covered entities must register **no later than three months** and provide required information to the competent system/authority. ([Gesetze im Internet][9])
 
 
-### Grading / tiering scheme (as evidenced)
+## Grading / tiering scheme (as evidenced)
 
 * **KRITIS (BSI-KritisV):** effectively **binary** at installation level (threshold met vs not met), using **numeric thresholds** in Anhang 5. ([Gesetze im Internet][2])
 * **NIS2 (BSIG 2025):** **two-tier entity categorisation** via **Anlage 1 vs Anlage 2** structure (especially important vs important sectors/entities). ([Gesetze im Internet][7])
 
 
-### Public vs confidential
+## Public vs confidential
 
 * **Public:** KRITIS thresholds for health are published in **Anhang 5** (Gesetze-im-Internet), and BSIG sector annexes are also published on Gesetze-im-Internet. ([Gesetze im Internet][2])
 * **KRITIS statistics:** BSI publishes KRITIS “in figures” (aggregated reporting). ([BSI][10])
 
 
-### Operational note
+## Operational note
 
 Germany’s hospital sector uses **B3S (branch-specific security standard) materials** in practice. The DKG’s submitted B3S document explicitly references applicability beyond only KRITIS hospitals (e.g., those exceeding **30,000** inpatient cases) and frames B3S usage as an implementation approach in context. ([dkgev.de][11])
 

@@ -8,13 +8,13 @@
 
 ## Exact legal / regulatory criteria (what triggers inclusion)
 
-### Subsection A (The Definition): the specific text defining the scope
+## Subsection A (The Definition): the specific text defining the scope
 
 * **“Critical Information Infrastructure”**: “the computer or computer system” used by a Government Agency or private organization in operations relating to **maintaining national security, public security, national economic security, or infrastructures in the public interest**. 
 * **“Organization of Critical Information Infrastructure”**: a Government Agency or private organization that **has a mission of or provides a CII service**. 
 * **Committee designation power (Section 49):** the Committee prescribes (by notification) characteristics of organizations with missions/services in specified aspects, including **“public health”**. 
 
-### Subsection B (The Thresholds): quantitative or qualitative tests
+## Subsection B (The Thresholds): quantitative or qualitative tests
 
 * **Aspect-based trigger (qualitative):** Section 49 lists aspects for which organizations may be prescribed as CII Organizations; **“public health”** is one listed aspect. 
 * **Case-by-case review (qualitative):** Section 49 states the Committee “shall consider and review… on a case-by-case basis.” 
@@ -27,13 +27,13 @@
 
 ## Incident reporting tests and thresholds
 
-### Deadlines
+## Deadlines
 
 * **Section 57 (CII incident reporting):** where a Cyber Threat is “significantly occurring” to a CII Organization’s system, it “shall report” to the Office and the Supervising/Regulating Organization; the CRC “may prescribe criteria and method” of reporting. **No fixed hour/day deadline is stated in Section 57 in the provided Act text.** 
 * **Section 58 (“without delay”):** if examination shows there is or may be a Cyber Threat to an information system under a Government Agency or CII Organization, the organization shall notify the Office and its Supervising/Regulating Organization **“without delay.”** 
 * **Section 54 (annual assessment + 30-day submission):** a CII Organization must conduct risk assessment / cybersecurity examination **at least once per year** and submit a summary report to the Office **within 30 days** after completion. 
 
-### Triggers (what counts as a reportable incident)
+## Triggers (what counts as a reportable incident)
 
 * **Section 57 trigger:** “Cyber Threat significantly occurring” to the system of a CII Organization. 
 * **Section 58 trigger:** examination results show there “is or may be” a Cyber Threat to the relevant information system. 
@@ -46,7 +46,7 @@
 * **Process stated in the Act:** designation occurs via **Committee notification** prescribing characteristics of organizations in the listed aspects (including public health), with consideration rules published in the Government Gazette and case-by-case review. 
 
 ## Public vs Confidential
-### Public (in provided primary text)
+## Public (in provided primary text)
 
 * The Act states that Committee rules for consideration under Section 49 “shall be published in the Government Gazette.” 
 **Confidentiality obligations in provided health-sector primary text (separate statute):**

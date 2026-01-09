@@ -119,6 +119,7 @@ pdf_cmd = [
     "--lua-filter", str(BASE_DIR / "pagebreak.lua"),
     "--pdf-engine=xelatex",
     "--include-in-header", str(BASE_DIR / "preamble.tex"),
+    "--include-in-header", str(BASE_DIR / "heading_style.tex"),
     "-V", "geometry:margin=1in",
     "-V", "fontsize=11pt",
     "-V", "documentclass=article",
