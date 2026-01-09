@@ -32,7 +32,6 @@ ENV/
 .gemini/
 
 # Project-specific build artifacts
-_build/
 _build_temp_merged.md
 
 # OS files
