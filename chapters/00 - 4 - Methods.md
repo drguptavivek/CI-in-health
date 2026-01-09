@@ -1,4 +1,4 @@
-# Methodology: 
+# Methodology
 identifying, extracting, shortlisting, and categorising “highest-critical / protected” health information systems
 
 This chapter documents the **repeatable method** used to identify country frameworks, extract only verifiable requirements, shortlist what qualifies as “highest critical / protected,” and categorise regimes consistently across jurisdictions (as applied in the country chapters already produced).  

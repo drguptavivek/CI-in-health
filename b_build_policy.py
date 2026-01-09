@@ -79,7 +79,7 @@ with open(merged_md, 'w') as out:
         if "00 - 2 - Executive Summary.md" in md_file.name:
             out.write('\n```{=latex}\n\\pagenumbering{roman}\n```\n\n')
         elif "01 - USA.md" in md_file.name:
-            out.write('\n```{=latex}\n\\pagenumbering{arabic}\n\\setcounter{page}{1}\n```\n\n')
+            out.write('\n```{=latex}\n\\newpage\n\\pagenumbering{arabic}\n\\setcounter{page}{1}\n```\n\n')
         
         content = md_file.read_text()
         preprocessed = preprocess_markdown(content)
